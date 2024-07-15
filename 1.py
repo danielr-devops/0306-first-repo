@@ -1,1 +1,1 @@
-priint("Moshe")
+print("Moshe")
